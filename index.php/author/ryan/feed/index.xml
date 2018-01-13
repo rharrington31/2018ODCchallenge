@@ -10,7 +10,7 @@
 <channel>
 	<title>ryan &#8211; 2018 Open Data Challenge</title>
 	<atom:link href="http://localhost/00%20-%20Website/index.php/author/ryan/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>http://rharrington31.github.io/2018ODCchallenge</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 13 Jan 2018 03:31:21 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,17 +19,17 @@
 	<generator>https://wordpress.org/?v=4.9.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/index.php/2018/01/13/hello-world/</link>
-		<comments>/index.php/2018/01/13/hello-world/#comments</comments>
+		<link>http://rharrington31.github.io/2018ODCchallenge/index.php/2018/01/13/hello-world/</link>
+		<comments>http://rharrington31.github.io/2018ODCchallenge/index.php/2018/01/13/hello-world/#comments</comments>
 		<pubDate>Sat, 13 Jan 2018 02:28:51 +0000</pubDate>
 		<dc:creator><![CDATA[ryan]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">http://rharrington31.github.io/2018ODCchallenge/?p=1</guid>
 		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-			<wfw:commentRss>/index.php/2018/01/13/hello-world/feed/</wfw:commentRss>
+			<wfw:commentRss>http://rharrington31.github.io/2018ODCchallenge/index.php/2018/01/13/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>
