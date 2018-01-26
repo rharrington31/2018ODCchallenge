@@ -11,12 +11,20 @@
 	<title>2018 Open Data Challenge</title>
 	<atom:link href="http://localhost/00%20-%20Website/index.php/feed/" rel="self" type="application/rss+xml" />
 	<link>http://http://rharrington31.github.io/2018ODCchallenge/wp-content</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Sat, 13 Jan 2018 03:31:21 +0000</lastBuildDate>
+	<description>Accessible in DE</description>
+	<lastBuildDate>Fri, 26 Jan 2018 05:30:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.1</generator>
+	<generator>https://wordpress.org/?v=4.9.2</generator>
+
+<image>
+	<url>http://http://rharrington31.github.io/2018ODCchallenge/wp-content/wp-content/uploads/2018/01/cropped-Favicon-1-32x32.png</url>
+	<title>2018 Open Data Challenge</title>
+	<link>http://http://rharrington31.github.io/2018ODCchallenge/wp-content</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>http://http://rharrington31.github.io/2018ODCchallenge/wp-content/index.php/2018/01/13/hello-world/</link>
